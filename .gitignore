@@ -1,0 +1,11 @@
+# النظام
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ملفات مؤقتة
+_*
+*.pdf
+
+# أدوات
+node_modules/
